@@ -162,7 +162,7 @@ tattva/
 
 ## 🌊 User Flow & Functionality
 
-For detailed user flow documentation, see: **[MindRoute User Flow Guide](./mindroute-user-flow.md)**
+For detailed user flow documentation, see: **[MindRoute User Flow Guide](./mindroute-user-flow.md)** ⇠⇠⇠⇠⇠⇠⇠⇠⇠👈🏻
 
 ### 🎯 **Core User Journey**
 
@@ -206,7 +206,7 @@ graph TD
 
 ## 🎨 UI Components Guide
 
-For comprehensive UI documentation, see: **[MindRoute UI Design Guide](./mindroute-ui-design-guide.md)**
+For comprehensive UI documentation, see: **[MindRoute UI Design Guide](./mindroute-ui-design-guide.md)**   ⇠⇠⇠⇠⇠⇠⇠⇠⇠👈🏻
 
 ### 🧩 **Core Components**
 
