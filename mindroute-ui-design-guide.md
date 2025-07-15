@@ -23,8 +23,6 @@ This document provides visual representations and design specifications for all 
 ### Desktop View
 ![Homepage Desktop](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/homepage_desktop.png)
 
-### Mobile View
-![Homepage Mobile](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/hompage_mobile.png)
 
 ### Layout Structure
 ```
@@ -294,20 +292,14 @@ Node Anatomy:
 ### Courses Section - Desktop View
 ![Courses Section Desktop](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/courses_section_desktop.png)
 
-### Courses Section - Mobile View
-![Courses Section Mobile](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/courses_section_mobile.png)
 
 ### Projects Section - Desktop View
 ![Projects Section Desktop](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/projects_section_desktop.png)
 
-### Projects Section - Mobile View
-![Projects Section Mobile](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/projects_section_mobile.png)
 
 ### FAQ Section - Desktop View
 ![FAQ Section Desktop](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/faq_section_desktop.png)
 
-### FAQ Section - Mobile View
-![FAQ Section Mobile](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/faq_section_mobile.png)
 
 ### Tab Bar Design
 ```
@@ -366,14 +358,10 @@ FAQ Tab:
 ### Node Click Modal - Desktop View
 ![Node Click Modal Desktop](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/node_click_modal_desktop.png)
 
-### Node Click Modal - Mobile View
-![Node Click Modal Mobile](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/node_click_modal_mobile.png)
 
 ### Project Click Interaction - Desktop View
 ![Project Section Click Desktop](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/project_section_click_desktop.png)
 
-### Project Click Interaction - Mobile View
-![Project Click Mobile](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/project_click_mobile.png)
 
 ### Modal Layout
 ```
@@ -549,8 +537,6 @@ Accent Colors:
 ### Desktop Content Page
 ![Content Page Desktop](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/content_page_desktop.png)
 
-### Mobile Content Page
-![Content Page Mobile](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/content_page_mobile.png)
 
 ---
 
