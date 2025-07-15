@@ -363,32 +363,6 @@ FAQ Tab:
 ![Project Section Click Desktop](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/project_section_click_desktop.png)
 
 
-### Modal Layout
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🌳 Roadmap Hierarchy View                           ✕      │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  📁 Frontend Development Roadmap                           │
-│  ├── 📁 HTML Fundamentals                                  │
-│  │   ├── 📄 Elements & Attributes                         │
-│  │   ├── 📄 Semantic HTML                                 │
-│  │   └── 📄 Forms & Validation                            │
-│  ├── 📁 CSS Styling                                        │
-│  │   ├── 📁 Layout Systems                                │
-│  │   │   ├── 📄 Flexbox                                   │
-│  │   │   ├── 📄 Grid                                      │
-│  │   │   └── 📄 Positioning                               │
-│  │   └── 📄 Responsive Design                             │
-│  └── 📁 JavaScript Basics                                  │
-│      ├── 📄 Variables & Functions                          │
-│      ├── 📄 DOM Manipulation                               │
-│      └── 📄 Event Handling                                 │
-│                                                             │
-│                                    [Switch to Flow View]   │
-└─────────────────────────────────────────────────────────────┘
-```
-
 ### Tree Navigation Features
 - **Expandable Folders**: Click to expand/collapse sections
 - **Progress Indicators**: Checkmarks for completed topics
