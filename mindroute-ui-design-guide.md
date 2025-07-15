@@ -20,6 +20,12 @@ This document provides visual representations and design specifications for all 
 ## Main Landing Page
 **File**: `app/pages/mindroute/page.tsx`
 
+### Desktop View
+![Homepage Desktop](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/homepage_desktop.png)
+
+### Mobile View
+![Homepage Mobile](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/hompage_mobile.png)
+
 ### Layout Structure
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -285,6 +291,24 @@ Node Anatomy:
 ## Tab Navigation
 **File**: `_components/tab-navigation.tsx`
 
+### Courses Section - Desktop View
+![Courses Section Desktop](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/courses_section_desktop.png)
+
+### Courses Section - Mobile View
+![Courses Section Mobile](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/courses_section_mobile.png)
+
+### Projects Section - Desktop View
+![Projects Section Desktop](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/projects_section_desktop.png)
+
+### Projects Section - Mobile View
+![Projects Section Mobile](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/projects_section_mobile.png)
+
+### FAQ Section - Desktop View
+![FAQ Section Desktop](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/faq_section_desktop.png)
+
+### FAQ Section - Mobile View
+![FAQ Section Mobile](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/faq_section_mobile.png)
+
 ### Tab Bar Design
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -339,6 +363,18 @@ FAQ Tab:
 ## Hierarchy Modal
 **File**: `_components/HierarchyModal.tsx`
 
+### Node Click Modal - Desktop View
+![Node Click Modal Desktop](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/node_click_modal_desktop.png)
+
+### Node Click Modal - Mobile View
+![Node Click Modal Mobile](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/node_click_modal_mobile.png)
+
+### Project Click Interaction - Desktop View
+![Project Section Click Desktop](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/project_section_click_desktop.png)
+
+### Project Click Interaction - Mobile View
+![Project Click Mobile](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/project_click_mobile.png)
+
 ### Modal Layout
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -376,6 +412,9 @@ FAQ Tab:
 
 ## Loading States
 **File**: `_components/LoadingStatus.tsx`
+
+### Loading Screen Interface
+![Loading Screen](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/loading_screen.png)
 
 ### Progressive Loading Design
 ```
@@ -502,5 +541,52 @@ Accent Colors:
 - **Easing**: cubic-bezier(0.4, 0, 0.2, 1) for natural feel
 - **Hover Effects**: Scale(1.02) with shadow increase
 - **Loading States**: Shimmer animations with 1.5s duration
+
+---
+
+## Content Page Layouts
+
+### Desktop Content Page
+![Content Page Desktop](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/content_page_desktop.png)
+
+### Mobile Content Page
+![Content Page Mobile](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/content_page_mobile.png)
+
+---
+
+## Project Tab Sections
+
+### Prerequisites Section
+![Prerequisites Section](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/prereq_section.png)
+
+### Skills Required Section
+![Skills Required Section](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/skill_required_section.png)
+
+### Key Concepts Section
+![Key Concepts Section](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/key_concept_section.png)
+
+### Learning Outcomes Section
+![Learning Outcomes Section](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/learning_outcomes_section.png)
+
+### Tools Section
+![Tools Section](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/tools_section.png)
+
+### Folder Structure Section
+![Folder Structure Section](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/folder_structure_section.png)
+
+### Prototype Section
+![Prototype Section](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/prototype_section.png)
+
+### Checklist Section
+![Checklist Section](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/checklist_section.png)
+
+### Test Cases Section
+![Test Cases Section](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/Test_cases_section.png)
+
+### Extensions Section
+![Extensions Section](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/extensions_section.png)
+
+### Deployment Guide Section
+![Deployment Guide Section](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/deployment_guide_section.png)
 
 This comprehensive UI design guide provides all the visual specifications needed to understand and implement the MindRoute interface components.
