@@ -9,29 +9,28 @@
 
 > Transform your learning goals into interactive, personalized roadmaps with AI-powered insights and community-driven content.
 
-
 ## 📖 Table of Contents
 
 ### 🏗️ **Getting Started**
-1. [Overview](#overview)
-2. [Features](#features)
+1. [Overview](#-overview)
+2. [Features](#-features)
 
 ### 🛠️ **Development Guide**
-5. [Architecture & Technology Stack](#architecture--technology-stack)
-6. [Project Structure](#project-structure)
-7. [User Flow & Functionality](#user-flow--functionality)
-8. [UI Components Guide](#ui-components-guide)
+5. [Architecture & Technology Stack](#-architecture--technology-stack)
+6. [Project Structure](#-project-structure)
+7. [User Flow & Functionality](#-user-flow--functionality)
+8. [UI Components Guide](#-ui-components-guide)
 
 ### 📚 **Technical Documentation**
-9. [API Reference](#api-reference)
-10. [Database Schema](#database-schema)
-11. [Tree-to-Flow Algorithm](#tree-to-flow-algorithm)
-12. [Background Jobs](#background-jobs)
+9. [API Reference](#-api-reference)
+10. [Database Schema](#-database-schema)
+11. [Tree-to-Flow Algorithm](#-tree-to-flow-algorithm)
+12. [Background Jobs](#-background-jobs)
 
 ### 🎨 **Design & Assets**
-13. [UI Design System](#ui-design-system)
-14. [Component Library](#component-library)
-15. [Responsive Design](#responsive-design)
+13. [UI Design System](#-design-system)
+14. [Component Library](#-ui-components-guide)
+15. [Responsive Design](#-responsive-design)
 
 ---
 
