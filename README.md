@@ -1,5 +1,7 @@
 # 🗺️ MindRoute - AI-Powered Learning Roadmap Generator
 
+![MindRoute Logo](https://raw.githubusercontent.com/NK2552003/MINDROUTE_DOCUMENTATION/main/logo.png)
+
 [![Next.js](https://img.shields.io/badge/Next.js-15.1.8-black)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-19.1.0-blue)](https://reactjs.org/)
