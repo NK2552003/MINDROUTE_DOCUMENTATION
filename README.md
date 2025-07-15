@@ -330,7 +330,7 @@ export function generateSpineFlow(topic: string, tree: TopicNode[]) {
 - **Dynamic Spacing**: Adjusts based on content hierarchy
 - **Connection Handles**: Proper edge routing between nodes
 
-For complete implementation details, see: **[Tree-to-Flow Documentation](./mindroute-user-flow.md#tree-to-flow-conversion-implementation)**
+For complete implementation details, see: **[Tree-to-Flow Documentation](./tree-to-flow-conversion.md)**
 
 ## ⚡ Background Jobs
 
