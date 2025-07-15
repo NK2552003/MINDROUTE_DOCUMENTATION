@@ -9,31 +9,12 @@
 
 > Transform your learning goals into interactive, personalized roadmaps with AI-powered insights and community-driven content.
 
-## 🚀 Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/nk2552003/tattva.git
-
-# Install dependencies
-npm install
-
-# Set up environment variables
-cp .env.example .env.local
-
-# Run development server
-npm run dev
-```
-
-Visit `http://localhost:3000/pages/mindroute` to start creating your learning roadmap!
 
 ## 📖 Table of Contents
 
 ### 🏗️ **Getting Started**
 1. [Overview](#overview)
 2. [Features](#features)
-3. [Installation](#installation)
-4. [Environment Setup](#environment-setup)
 
 ### 🛠️ **Development Guide**
 5. [Architecture & Technology Stack](#architecture--technology-stack)
@@ -51,16 +32,6 @@ Visit `http://localhost:3000/pages/mindroute` to start creating your learning ro
 13. [UI Design System](#ui-design-system)
 14. [Component Library](#component-library)
 15. [Responsive Design](#responsive-design)
-
-### 🚀 **Deployment & Production**
-16. [Deployment Guide](#deployment-guide)
-17. [Environment Variables](#environment-variables)
-18. [Performance Optimization](#performance-optimization)
-
-### 🔧 **Extending & Customizing**
-19. [Customization Guide](#customization-guide)
-20. [Contributing](#contributing)
-21. [Troubleshooting](#troubleshooting)
 
 ---
 
@@ -109,70 +80,6 @@ Visit `http://localhost:3000/pages/mindroute` to start creating your learning ro
 - **Sharing System**: Generate shareable links for collaboration
 - **User Authentication**: Secure access with Clerk integration
 
-## 🛠️ Installation
-
-### Prerequisites
-- Node.js 18+ 
-- npm or yarn
-- Supabase account
-- Clerk account (for authentication)
-- OpenAI API key (for AI generation)
-
-### Step-by-Step Setup
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/tattva.git
-   cd tattva
-   ```
-
-2. **Install Dependencies**
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
-
-3. **Environment Configuration**
-   ```bash
-   cp .env.example .env.local
-   ```
-
-4. **Configure Environment Variables**
-   ```env
-   # Supabase Configuration
-   NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
-   NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-   SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_key
-
-   # Clerk Authentication
-   NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
-   CLERK_SECRET_KEY=your_clerk_secret_key
-
-   # AI Integration
-   GITHUB_TOKEN=your_github_token_for_models_api
-   OPENAI_API_KEY=your_openai_api_key
-
-   # Inngest Configuration
-   INNGEST_EVENT_KEY=your_inngest_event_key
-   INNGEST_SIGNING_KEY=your_inngest_signing_key
-   ```
-
-5. **Database Setup**
-   ```bash
-   # Run Supabase migrations
-   npx supabase db push
-
-   # Seed initial data (optional)
-   npx supabase db seed
-   ```
-
-6. **Start Development Server**
-   ```bash
-   npm run dev
-   ```
-
-   Visit `http://localhost:3000/pages/mindroute` to see MindRoute in action!
 
 ## 🏗️ Architecture & Technology Stack  
 
@@ -448,43 +355,3 @@ MindRoute uses Inngest for reliable background processing:
 - Progress indicators in UI
 - Error logging and alerts
 - Performance metrics
-
-## 🚀 Deployment Guide
-
-### 🌐 **Vercel Deployment**
-
-1. **Connect Repository**
-   ```bash
-   # Install Vercel CLI
-   npm i -g vercel
-   
-   # Deploy to Vercel
-   vercel --prod
-   ```
-
-2. **Environment Variables**
-   Configure all required environment variables in Vercel dashboard
-
-3. **Domain Configuration**
-   Set up custom domain and SSL certificates
-
-### 🔧 **Environment Variables**
-
-```env
-# Database
-NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
-
-# Authentication
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_...
-CLERK_SECRET_KEY=sk_test_...
-
-# AI Services
-GITHUB_TOKEN=github_pat_...
-OPENAI_API_KEY=sk-...
-
-# Background Jobs
-INNGEST_EVENT_KEY=...
-INNGEST_SIGNING_KEY=...
-```
