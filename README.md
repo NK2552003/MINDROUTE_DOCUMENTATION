@@ -308,6 +308,17 @@ CREATE TABLE Roadmap (
 );
 ```
 
+#### **NodeData Table**
+```sql
+CREATE TABLE NodeData (
+    id SERIAL PRIMARY KEY,
+    libId UUID REFERENCES Roadmap(libId),
+    HierarchySelectedText TEXT,
+    generatedResp JSONB,
+    created_at TIMESTAMP DEFAULT NOW()
+);
+```
+
 ## 🧠 Tree-to-Flow Algorithm
 
 The core visualization algorithm converts hierarchical AI responses into interactive flowcharts:
